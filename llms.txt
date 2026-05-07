@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Newcastle NSW
+
+> Geotechnical engineering services in Newcastle NSW, Australia.
+
+## Services
+- [Anchors](https://newcastle-nsw.geotechnicalengineering1.co/anchors/)
+- [Atterberg Limits](https://newcastle-nsw.geotechnicalengineering1.co/atterberg-limits/)
+- [Cbr Road](https://newcastle-nsw.geotechnicalengineering1.co/cbr-road/)
+- [Cpt Test](https://newcastle-nsw.geotechnicalengineering1.co/cpt-test/)
+- [Deep Excavations](https://newcastle-nsw.geotechnicalengineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://newcastle-nsw.geotechnicalengineering1.co/excavation-monitoring/)
+- [Excavations](https://newcastle-nsw.geotechnicalengineering1.co/excavations/)
+- [Flexible Pavement](https://newcastle-nsw.geotechnicalengineering1.co/flexible-pavement/)
+- [Footings](https://newcastle-nsw.geotechnicalengineering1.co/footings/)
+- [Foundations](https://newcastle-nsw.geotechnicalengineering1.co/foundations/)
+- [Grain Size](https://newcastle-nsw.geotechnicalengineering1.co/grain-size/)
+- [Ground Improvement](https://newcastle-nsw.geotechnicalengineering1.co/ground-improvement/)
+- [Grouting](https://newcastle-nsw.geotechnicalengineering1.co/grouting/)
+- [In Situ Permeability](https://newcastle-nsw.geotechnicalengineering1.co/in-situ-permeability/)
+- [Investigation](https://newcastle-nsw.geotechnicalengineering1.co/investigation/)
+- [Lab In Situ](https://newcastle-nsw.geotechnicalengineering1.co/lab-in-situ/)
+- [Laboratory](https://newcastle-nsw.geotechnicalengineering1.co/laboratory/)
+- [Liquefaction](https://newcastle-nsw.geotechnicalengineering1.co/liquefaction/)
+- [Masw](https://newcastle-nsw.geotechnicalengineering1.co/masw/)
+- [Mat Foundations](https://newcastle-nsw.geotechnicalengineering1.co/mat-foundations/)
+- [Piles](https://newcastle-nsw.geotechnicalengineering1.co/piles/)
+- [Proctor Tests](https://newcastle-nsw.geotechnicalengineering1.co/proctor-tests/)
+- [Resistivity](https://newcastle-nsw.geotechnicalengineering1.co/resistivity/)
+- [Retaining Walls](https://newcastle-nsw.geotechnicalengineering1.co/retaining-walls/)
+- [Rigid Pavement](https://newcastle-nsw.geotechnicalengineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://newcastle-nsw.geotechnicalengineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://newcastle-nsw.geotechnicalengineering1.co/sand-cone-density/)
+- [Seismic](https://newcastle-nsw.geotechnicalengineering1.co/seismic/)
+- [Seismic Isolation](https://newcastle-nsw.geotechnicalengineering1.co/seismic-isolation/)
+- [Seismic Microzonation](https://newcastle-nsw.geotechnicalengineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://newcastle-nsw.geotechnicalengineering1.co/seismic-refraction/)
+- [Slope Stability](https://newcastle-nsw.geotechnicalengineering1.co/slope-stability/)
+- [Slopes](https://newcastle-nsw.geotechnicalengineering1.co/slopes/)
+- [Soft Ground Tunnels](https://newcastle-nsw.geotechnicalengineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://newcastle-nsw.geotechnicalengineering1.co/spt-drilling/)
+- [Stone Columns](https://newcastle-nsw.geotechnicalengineering1.co/stone-columns/)
+- [Test Pits](https://newcastle-nsw.geotechnicalengineering1.co/test-pits/)
+- [Triaxial](https://newcastle-nsw.geotechnicalengineering1.co/triaxial/)
+- [Vibrocompaction](https://newcastle-nsw.geotechnicalengineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://newcastle-nsw.geotechnicalengineering1.co/
+
+## About
+This site provides geotechnical engineering services in Newcastle NSW, Australia.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
